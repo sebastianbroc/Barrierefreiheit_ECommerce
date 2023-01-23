@@ -9,4 +9,4 @@ Im Rahmen des Projekt 1 (Vision und Konzept) wurde in Figma ein [Klick-Prototyp]
 
 Die Project Owner sind Nathalie Kuhn und Prof. Christian Noss.
 
-Das Projekt wird von Sebastian Brock und Taha Moutjahid umgesetzt.
+Das Projekt wird von Taha Moutjahid und Sebastian Brock umgesetzt.
