@@ -1,4 +1,4 @@
-# Willkommen im Wiki des Projekts "Barrierefreiheit im E-Commerce"!
+# Willkommen im Projekt "Barrierefreiheit im E-Commerce"!
 
 Das Projekt findet im Kontext des Schwerpunkts "Weaving the Web" im Studiengang des Medieninformatik-Master im Wintersemester 2022/23 statt.
 
