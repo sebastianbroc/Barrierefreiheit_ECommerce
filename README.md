@@ -1,5 +1,8 @@
 # Willkommen im Projekt "Barrierefreiheit im E-Commerce"!
 
+[Link zur Abschlusspräsentation](https://docs.google.com/presentation/d/10xKlw04qfMRqgjKXhodAv6I7Byetutrta2hkMjNCxLA/edit?usp=sharing)
+
+
 Das Projekt findet im Kontext des Schwerpunkts "Weaving the Web" im Studiengang des Medieninformatik-Master im Wintersemester 2022/23 statt.
 
 Durch dieses Projekt soll eine kollaborative Plattform zum Austausch von Implementierungsansätzen und -Lösungen rund um das Thema der Barrierefreiheit im Web konzipiert und entwickelt werden. Dabei wird ein besonderer Fokus auf den E-Commerce gerichtet, unter anderem wegen dem 2019 von der Europäischen Union verabschiedeten [European accessibility act](https://ec.europa.eu/social/main.jsp?catId=1202&intPageId=5581&langId=en), welcher vorgibt, dass ab Juni 2025 eine Vielzahl von Angeboten im Web barrierefrei gestaltet werden müssen.
