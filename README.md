@@ -14,6 +14,8 @@ Im Rahmen des Projekt 1 (Vision und Konzept) wurde in Figma ein [Klick-Prototyp]
 
 Im [Projekt-Board](https://github.com/users/sebastianbroc/projects/1/views/1) befindet sich das Backlog des Projekts.
 
+Die Projekt 2 - Phase (Entwicklung) wird in einem [gesonderten Repository](https://github.com/sebastianbroc/P2_Barrierefreiheit_ECommerce) weitergeführt.
+
 
 ---
 Die Project Owner sind Nathalie Kuhn und Prof. Christian Noss.
