@@ -2,6 +2,8 @@
 
 [Link zur Abschlusspräsentation](https://docs.google.com/presentation/d/10xKlw04qfMRqgjKXhodAv6I7Byetutrta2hkMjNCxLA/edit?usp=sharing)
 
+[Link zur Videopräsentation](https://youtu.be/QWppIg7LAjo)
+
 
 Das Projekt findet im Kontext des Schwerpunkts "Weaving the Web" im Studiengang des Medieninformatik-Master im Wintersemester 2022/23 statt.
 
